@@ -1,55 +1,62 @@
-# Hi, I'm Mahmoud Mohamed 👋
+# Mahmoud Mohamed
 
-### Junior Angular Frontend Developer
+**Frontend Developer | Angular & TypeScript**
 
-I build responsive, maintainable web applications using Angular and TypeScript. I'm passionate about reusable components, clean code, API integration, and creating great user experiences.
+I build responsive, maintainable web applications with a focus on clean code, reusable components, and scalable frontend architecture.
 
-- 🔭 Working on Angular frontend projects
-- 🌱 Improving my skills in Angular, RxJS, NgRx, and unit testing
-- 🧩 Interested in component architecture and scalable frontend applications
-- 🤝 Open to collaborating on frontend projects
+My work focuses on turning designs into functional user interfaces, integrating REST APIs, and building reliable applications using modern Angular practices.
 
-## 🛠️ Technologies & Tools
+---
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Technical Skills
 
-## 🚀 Featured Projects
+| Category | Technologies |
+|---|---|
+| Frontend | Angular, TypeScript, JavaScript, HTML5, CSS3 |
+| State Management | NgRx, RxJS, Angular Signals |
+| Styling & UI | Tailwind CSS, Optimus UI, Responsive Design |
+| Development Tools | Git, GitHub, Nx, npm |
+| Testing | Vitest, Unit Testing |
+| Integration | REST APIs, Angular HttpClient |
 
-### 1. Online Exam
-An online examination frontend project.
+### Selected Projects
 
-**Focus:** Angular development, reusable UI, and application functionality.
+**01 — Online Exam Platform**
 
-[View Repository](https://github.com/Dev-Mahmoud28/online-exam)
+An online examination application developed with Angular.
 
-### 2. Rose E-commerce
+- Focused on frontend development and reusable UI components.
+- Built with Angular and TypeScript.
+
+[Explore the repository →](https://github.com/Dev-Mahmoud28/online-exam)
+
+**02 — Rose E-commerce**
+
 A collaborative e-commerce frontend project.
 
-**Focus:** Angular, component-based development, product interfaces, and state management.
+- Product listing and product details interfaces.
+- Angular-based component architecture and state management.
 
-[View Repository](https://github.com/nabdelfattah/rose-app)
+[Explore the repository →](https://github.com/nabdelfattah/rose-app)
 
-### 3. E-commerce
-An e-commerce web development project.
+**03 — E-commerce**
 
-**Focus:** Frontend development and online shopping experiences.
+An e-commerce frontend project showcasing web development skills.
 
-[View Repository](https://github.com/Dev-Mahmoud28/E-commerce)
+[Explore the repository →](https://github.com/Dev-Mahmoud28/E-commerce)
 
-## 📊 GitHub Activity
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Mahmoud28&show_icons=true&hide_border=true&theme=github_dark)
+### Currently Focusing On
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mahmoud28&layout=compact&hide_border=true&theme=github_dark)
+- Building maintainable Angular applications.
+- Improving frontend architecture and state management.
+- Writing effective unit tests.
+- Developing accessible, responsive user interfaces.
 
-## 📫 Connect With Me
+---
 
-- GitHub: [Dev-Mahmoud28](https://github.com/Dev-Mahmoud28)
-- LinkedIn: Add your LinkedIn profile URL
+### Connect
+
+[GitHub](https://github.com/Dev-Mahmoud28) · [LinkedIn](YOUR_LINKEDIN_URL)
+
