@@ -1,22 +1,10 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,35:241442,70:6D28D9,100:C026D3&height=230&section=header&text=Mahmoud%20Mohamed&fontSize=46&fontColor=FFFFFF&fontAlignY=37&desc=Junior%20Angular%20Frontend%20Developer&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Mahmoud Mohamed - Frontend Developer"/>
-
-### Turning ideas into digital experiences.
-
-*Build. Learn. Create. Repeat.*
-
-<br/>
-
-<a href="https://github.com/Dev-Mahmoud28">
-<img src="https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=C084FC"/>
-</a>
-<a href="https://www.linkedin.com/in/mahmoud-mohamed-094935241/">
-<img src="https://img.shields.io/badge/LinkedIn-35206B?style=for-the-badge&logo=linkedin&logoColor=E9D5FF"/>
-</a>
-
+<div align="center">
+  <img
+    src="./assets/mahmoud-hero.svg"
+    width="100%"
+    alt="Mahmoud Mohamed — Angular Frontend Developer"
+  />
 </div>
-
 ---
 
 ## `01 / About Me`
@@ -155,27 +143,26 @@ An e-commerce web development project.
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Dev-Mahmoud28&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C084FC&icon_color=E879F9&text_color=E5DDF5"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Dev-Mahmoud28&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=D8B4FE&icon_color=E879F9&text_color=FFFFFF&ring_color=A78BFA"
   alt="GitHub Statistics"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mahmoud28&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C084FC&text_color=E5DDF5"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mahmoud28&layout=compact&hide_border=true&bg_color=0D0B14&title_color=D8B4FE&text_color=FFFFFF"
   alt="Most Used Languages"
 />
 
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=Dev-Mahmoud28&hide_border=true&background=0D0B14&ring=8B5CF6&fire=E879F9&currStreakLabel=C084FC&sideLabels=E5DDF5&dates=9CA3AF"
   width="85%"
+  src="https://streak-stats.demolab.com?user=Dev-Mahmoud28&hide_border=true&background=0D0B14&ring=A78BFA&fire=E879F9&currStreakLabel=D8B4FE&sideLabels=FFFFFF&dates=B8AFC9&currStreakNum=FFFFFF&sideNums=FFFFFF"
   alt="GitHub Contribution Streak"
 />
 
 </div>
-
 ---
 
 ## `05 / Let's Connect`
