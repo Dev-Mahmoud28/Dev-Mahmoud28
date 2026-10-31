@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">About Mahmoud Mohamed</title>
+  <desc id="desc">A dark purple developer profile card showing Mahmoud's role, focus areas, technologies, learning goals, and development mindset.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#100B1B"/>
+      <stop offset=".58" stop-color="#171027"/>
+      <stop offset="1" stop-color="#24113A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#E879F9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="1">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#B794F4" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="650" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="650" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="650" rx="28" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="648" rx="27" fill="none" stroke="#8B5CF6" stroke-opacity=".45"/>
+
+  <circle cx="1110" cy="95" r="145" fill="none" stroke="#A78BFA" stroke-opacity=".12" stroke-width="2"/>
+  <circle cx="1110" cy="95" r="112" fill="none" stroke="#E879F9" stroke-opacity=".15" stroke-width="1.5"/>
+  <path d="M1020 95h180M1110 5v180" stroke="#C084FC" stroke-opacity=".12"/>
+
+  <text x="58" y="66" fill="#C4B5FD" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">01 / ABOUT ME</text>
+  <text x="58" y="125" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700">Hello, World! I'm Mahmoud</text>
+  <text x="60" y="160" fill="#D8B4FE" font-family="Arial, Helvetica, sans-serif" font-size="18">Junior Angular Frontend Developer</text>
+
+  <rect x="58" y="194" width="1084" height="1" fill="url(#accent)" opacity=".8"/>
+
+  <!-- left column -->
+  <text x="58" y="240" fill="#E879F9" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">WHAT I FOCUS ON</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#F5F3FF">
+    <circle cx="70" cy="282" r="5" fill="#A78BFA"/><text x="90" y="289">Responsive web applications</text>
+    <circle cx="70" cy="326" r="5" fill="#A78BFA"/><text x="90" y="333">Reusable UI components</text>
+    <circle cx="70" cy="370" r="5" fill="#A78BFA"/><text x="90" y="377">REST API integration</text>
+    <circle cx="70" cy="414" r="5" fill="#A78BFA"/><text x="90" y="421">Maintainable frontend architecture</text>
+  </g>
+
+  <!-- right column -->
+  <text x="650" y="240" fill="#E879F9" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">CURRENT TOOLKIT</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">
+    <rect x="650" y="262" width="145" height="42" rx="12" fill="#35206B" stroke="#8B5CF6" stroke-opacity=".7"/>
+    <text x="722" y="289" fill="#FFFFFF" text-anchor="middle">Angular</text>
+    <rect x="808" y="262" width="145" height="42" rx="12" fill="#35206B" stroke="#8B5CF6" stroke-opacity=".7"/>
+    <text x="880" y="289" fill="#FFFFFF" text-anchor="middle">TypeScript</text>
+    <rect x="966" y="262" width="145" height="42" rx="12" fill="#35206B" stroke="#8B5CF6" stroke-opacity=".7"/>
+    <text x="1038" y="289" fill="#FFFFFF" text-anchor="middle">RxJS</text>
+    <rect x="650" y="316" width="145" height="42" rx="12" fill="#4A1D59" stroke="#C026D3" stroke-opacity=".7"/>
+    <text x="722" y="343" fill="#FFFFFF" text-anchor="middle">NgRx</text>
+    <rect x="808" y="316" width="145" height="42" rx="12" fill="#4A1D59" stroke="#C026D3" stroke-opacity=".7"/>
+    <text x="880" y="343" fill="#FFFFFF" text-anchor="middle">Tailwind CSS</text>
+    <rect x="966" y="316" width="145" height="42" rx="12" fill="#4A1D59" stroke="#C026D3" stroke-opacity=".7"/>
+    <text x="1038" y="343" fill="#FFFFFF" text-anchor="middle">Vitest</text>
+  </g>
+
+  <text x="650" y="414" fill="#E879F9" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">CURRENTLY LEARNING</text>
+  <text x="650" y="448" fill="#E9D5FF" font-family="Arial, Helvetica, sans-serif" font-size="17">Advanced Angular  ·  Unit Testing  ·  Best Practices</text>
+
+  <rect x="58" y="486" width="1084" height="1" fill="#8B5CF6" opacity=".35"/>
+  <rect x="58" y="520" width="1084" height="82" rx="16" fill="#0D0B14" fill-opacity=".72" stroke="#8B5CF6" stroke-opacity=".45"/>
+  <rect x="58" y="520" width="5" height="82" rx="2.5" fill="url(#accent)"/>
+  <text x="88" y="553" fill="#C4B5FD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">MY MINDSET</text>
+  <text x="88" y="582" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Build. Learn. Create. Repeat.</text>
+  <text x="1110" y="575" fill="#E879F9" font-family="Arial, Helvetica, sans-serif" font-size="30" text-anchor="end">&lt;/&gt;</text>
+</svg>
