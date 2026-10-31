@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#0D0B14"/><stop offset=".58" stop-color="#171024"/><stop offset="1" stop-color="#24123D"/></linearGradient>
+    <linearGradient id="portal" x1="790" y1="35" x2="1115" y2="315" gradientUnits="userSpaceOnUse"><stop stop-color="#E879F9"/><stop offset=".48" stop-color="#A855F7"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+    <linearGradient id="stroke" x1="760" y1="40" x2="1110" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#F0ABFC"/><stop offset=".55" stop-color="#A78BFA"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 230 -290 0 975 170)" gradientUnits="userSpaceOnUse"><stop stop-color="#A855F7" stop-opacity=".34"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#C4B5FD" stroke-opacity=".09" stroke-width="1"/></pattern>
+    <filter id="blur" x="650" y="-60" width="650" height="470" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="shadow" x="730" y="-10" width="480" height="390" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <ellipse cx="960" cy="170" rx="285" ry="220" fill="url(#glow)" filter="url(#blur)"/>
+  <path d="M0 278C190 230 310 320 500 268C650 227 720 248 840 340H0V278Z" fill="#8B5CF6" fill-opacity=".055"/>
+  <path d="M0 295C180 255 330 330 520 285" stroke="#C084FC" stroke-opacity=".22"/>
+  <g opacity=".7" stroke="#C4B5FD" stroke-opacity=".3">
+    <path d="M680 0V340M712 0V340" stroke-dasharray="3 8"/>
+    <circle cx="700" cy="72" r="3" fill="#E879F9" stroke="none"/><circle cx="700" cy="270" r="2" fill="#A78BFA" stroke="none"/>
+  </g>
+  <g>
+    <text x="74" y="91" fill="#C084FC" font-family="monospace" font-size="13" letter-spacing="4">CREATIVE DEVELOPER / 001</text>
+    <text x="70" y="158" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700" letter-spacing="-1.7">Mahmoud Mohamed</text>
+    <rect x="74" y="181" width="42" height="3" rx="1.5" fill="#E879F9"/>
+    <text x="74" y="218" fill="#E9D5FF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Junior Angular Frontend Developer</text>
+    <text x="74" y="257" fill="#D8D1E5" font-family="Arial, Helvetica, sans-serif" font-size="17">Turning ideas into digital experiences.</text>
+    <text x="74" y="302" fill="#A78BFA" font-family="monospace" font-size="12" letter-spacing="2">ANGULAR  ·  TYPESCRIPT  ·  NGRX  ·  TAILWIND</text>
+  </g>
+  <g transform="translate(770 24)">
+    <ellipse cx="202" cy="151" rx="177" ry="143" fill="#A855F7" fill-opacity=".16" filter="url(#shadow)"/>
+    <path d="M202 20C291 20 363 92 363 181C363 270 291 322 202 322C113 322 41 270 41 181C41 92 113 20 202 20Z" stroke="url(#stroke)" stroke-width="2" stroke-opacity=".35"/>
+    <path d="M202 43C278 43 340 105 340 181C340 257 278 299 202 299C126 299 64 257 64 181C64 105 126 43 202 43Z" stroke="url(#stroke)" stroke-width="2" stroke-opacity=".62"/>
+    <path d="M202 68C265 68 315 118 315 181C315 244 265 276 202 276C139 276 89 244 89 181C89 118 139 68 202 68Z" fill="#170D28" stroke="url(#portal)" stroke-width="4"/>
+    <path d="M202 87C254 87 296 129 296 181C296 233 254 257 202 257C150 257 108 233 108 181C108 129 150 87 202 87Z" fill="url(#portal)" fill-opacity=".16"/>
+    <path d="M202 108C242 108 275 141 275 181C275 221 242 238 202 238C162 238 129 221 129 181C129 141 162 108 202 108Z" stroke="#E9D5FF" stroke-opacity=".6" stroke-width="1.5"/>
+    <path d="M177 157L153 181L177 205M227 157L251 181L227 205M213 147L191 215" stroke="#F5E9FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="202" cy="20" r="4" fill="#F0ABFC"/><circle cx="363" cy="181" r="3" fill="#C4B5FD"/><circle cx="41" cy="181" r="3" fill="#C4B5FD"/>
+  </g>
+  <g fill="#E9D5FF" opacity=".65"><circle cx="1120" cy="48" r="2"/><circle cx="1147" cy="92" r="1.5"/><circle cx="1092" cy="290" r="2"/><circle cx="750" cy="300" r="1.5"/><circle cx="640" cy="48" r="1.5"/></g>
+  <text x="1090" y="316" text-anchor="end" fill="#A78BFA" font-family="monospace" font-size="10" letter-spacing="2">BUILD / LEARN / CREATE</text>
+</svg>
