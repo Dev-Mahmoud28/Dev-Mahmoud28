@@ -9,40 +9,17 @@
 
 ## `01 / About Me`
 
-```typescript
-const mahmoud = {
-  role: "Junior Angular Frontend Developer",
+<div align="center">
+  <img
+    src="./assets/mahmoud-about.svg"
+    width="100%"
+    alt="About Mahmoud Mohamed"
+  />
+</div>
 
-  interests: [
-    "Creative Web Development",
-    "Responsive User Interfaces",
-    "Reusable Components",
-    "Frontend Architecture",
-  ],
+I build modern web interfaces with **Angular and TypeScript**, focusing on reusable components, responsive layouts, and maintainable code.
 
-  technologies: [
-    "Angular",
-    "TypeScript",
-    "RxJS",
-    "NgRx",
-    "Tailwind CSS",
-  ],
-
-  currentlyLearning: [
-    "Advanced Angular",
-    "Unit Testing",
-    "Frontend Best Practices",
-  ],
-
-  philosophy: "Build. Learn. Create. Repeat.",
-};
-```
-
-I'm a **Junior Angular Frontend Developer** passionate about building modern web applications and crafting meaningful user experiences.
-
-I enjoy transforming designs into functional interfaces, creating reusable components, working with APIs, and writing maintainable frontend code.
-
-I'm continuously exploring new technologies and improving my problem-solving and development skills.
+I enjoy transforming designs into functional user experiences and continuously improving my frontend development skills.
 
 ---
 
