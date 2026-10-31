@@ -1,18 +1,20 @@
-<!-- HERO -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:35206B,100:1677FF&height=210&section=header&text=Mahmoud%20Mohamed&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Angular%20Frontend%20Developer&descAlignY=60&descSize=17&animation=fadeIn"
-    width="100%"
-    alt="Mahmoud Mohamed — Angular Frontend Developer"
-  />
+ <div align="center">
 
-  <p>
-    <a href="https://github.com/Dev-Mahmoud28">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,35:241442,70:6D28D9,100:C026D3&height=230&section=header&text=Mahmoud%20Mohamed&fontSize=46&fontColor=FFFFFF&fontAlignY=37&desc=Junior%20Angular%20Frontend%20Developer&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Mahmoud Mohamed - Frontend Developer"/>
+
+### Turning ideas into digital experiences.
+
+*Build. Learn. Create. Repeat.*
+
+<br/>
+
+<a href="https://github.com/Dev-Mahmoud28">
+<img src="https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=C084FC"/>
+</a>
+<a href="https://www.linkedin.com/in/mahmoud-mohamed-094935241/">
+<img src="https://img.shields.io/badge/LinkedIn-35206B?style=for-the-badge&logo=linkedin&logoColor=E9D5FF"/>
+</a>
+
 </div>
 
 ---
@@ -22,40 +24,68 @@
 ```typescript
 const mahmoud = {
   role: "Junior Angular Frontend Developer",
-  focus: [
-    "Responsive web applications",
-    "Reusable UI components",
-    "REST API integration",
-    "Maintainable frontend architecture",
+
+  interests: [
+    "Creative Web Development",
+    "Responsive User Interfaces",
+    "Reusable Components",
+    "Frontend Architecture",
   ],
-  learning: ["Angular", "RxJS", "NgRx", "Unit Testing"],
+
+  technologies: [
+    "Angular",
+    "TypeScript",
+    "RxJS",
+    "NgRx",
+    "Tailwind CSS",
+  ],
+
+  currentlyLearning: [
+    "Advanced Angular",
+    "Unit Testing",
+    "Frontend Best Practices",
+  ],
+
+  philosophy: "Build. Learn. Create. Repeat.",
 };
 ```
 
-I build modern web interfaces with **Angular and TypeScript**, focusing on reusable components, responsive layouts, and maintainable code. I enjoy turning designs into functional user experiences and continuously improving my frontend development skills.
+I'm a **Junior Angular Frontend Developer** passionate about building modern web applications and crafting meaningful user experiences.
+
+I enjoy transforming designs into functional interfaces, creating reusable components, working with APIs, and writing maintainable frontend code.
+
+I'm continuously exploring new technologies and improving my problem-solving and development skills.
 
 ---
 
 ## `02 / Tech Stack`
 
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,git,github"
-    alt="Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Git and GitHub"
-  />
-</div>
 
-<div align="center">
+**01 — Frontend Development**
 
-| Area | Technologies |
-|:---:|:---|
-| Framework | Angular |
-| Languages | TypeScript, JavaScript, HTML, CSS |
-| Reactive Development | RxJS, Angular Signals |
-| State Management | NgRx |
-| UI & Styling | Tailwind CSS, Optimus UI |
-| API Integration | REST APIs, Angular HttpClient |
-| Testing & Tooling | Vitest, Git, Nx, npm |
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Frontend technologies"/>
+
+<br/><br/>
+
+**02 — UI & Styling**
+
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
+
+<img src="https://img.shields.io/badge/Optimus%20UI-35206B?style=for-the-badge&logoColor=white" alt="Optimus UI"/>
+
+<br/><br/>
+
+**03 — State & Reactive Programming**
+
+<img src="https://img.shields.io/badge/RxJS-8B5CF6?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/>
+<img src="https://img.shields.io/badge/NgRx-C026D3?style=for-the-badge&logo=ngrx&logoColor=white" alt="NgRx"/>
+
+<br/><br/>
+
+**04 — Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development tools"/>
 
 </div>
 
@@ -64,61 +94,86 @@ I build modern web interfaces with **Angular and TypeScript**, focusing on reusa
 ## `03 / Featured Projects`
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>01. Online Exam</h3>
-        <p>An online examination frontend project.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        </p>
-        <a href="https://github.com/Dev-Mahmoud28/online-exam">Explore Repository →</a>
-      </td>
-      <td width="50%">
-        <h3>02. Rose E-commerce</h3>
-        <p>A collaborative e-commerce frontend project.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-          <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" alt="NgRx" />
-          <img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white" alt="Nx" />
-        </p>
-        <a href="https://github.com/nabdelfattah/rose-app">Explore Repository →</a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <h3>03. E-commerce</h3>
-        <p>An e-commerce web development project.</p>
-        <a href="https://github.com/Dev-Mahmoud28/E-commerce">Explore Repository →</a>
-      </td>
-    </tr>
-  </table>
+
+*Some things I've been building.*
+
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01. Online Exam
+
+An online examination frontend project focused on interactive examination experiences.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Angular-8B5CF6?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-C026D3?style=flat-square&logo=typescript&logoColor=white"/>
+
+<br/>
+
+<a href="https://github.com/Dev-Mahmoud28/online-exam">↗ Explore Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02. Rose E-commerce
+
+A collaborative e-commerce frontend project featuring reusable UI components and modern Angular architecture.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Angular-8B5CF6?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/NgRx-C026D3?style=flat-square&logo=ngrx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nx-35206B?style=flat-square&logo=nx&logoColor=white"/>
+
+<br/>
+
+<a href="https://github.com/nabdelfattah/rose-app">↗ Explore Repository</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 03. E-commerce
+
+An e-commerce web development project.
+
+<a href="https://github.com/Dev-Mahmoud28/E-commerce">↗ Explore Repository</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## `04 / GitHub Analytics`
 
 <div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Dev-Mahmoud28&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9"
-    alt="GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mahmoud28&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
-    alt="Most used languages"
-  />
-</div>
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Dev-Mahmoud28&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub contribution streak"
-    width="80%"
-  />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Dev-Mahmoud28&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C084FC&icon_color=E879F9&text_color=E5DDF5"
+  alt="GitHub Statistics"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mahmoud28&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C084FC&text_color=E5DDF5"
+  alt="Most Used Languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=Dev-Mahmoud28&hide_border=true&background=0D0B14&ring=8B5CF6&fire=E879F9&currStreakLabel=C084FC&sideLabels=E5DDF5&dates=9CA3AF"
+  width="85%"
+  alt="GitHub Contribution Streak"
+/>
+
 </div>
 
 ---
@@ -126,18 +181,22 @@ I build modern web interfaces with **Angular and TypeScript**, focusing on reusa
 ## `05 / Let's Connect`
 
 <div align="center">
-  <a href="https://github.com/Dev-Mahmoud28">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahmoud-mohamed-094935241/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <br/><br/>
-  <i>Building, learning, and improving one project at a time.</i>
-  <br/><br/>
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1677FF,50:35206B,100:0D1117&height=100&section=footer"
-    width="100%"
-    alt=""
-  />
+
+### Let's build something meaningful.
+
+<a href="https://github.com/Dev-Mahmoud28">
+<img src="https://img.shields.io/badge/GitHub-Follow-35206B?style=for-the-badge&logo=github&logoColor=E9D5FF"/>
+</a>
+<a href="https://www.linkedin.com/in/mahmoud-mohamed-094935241/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*Turning curiosity into code, and ideas into experiences.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:35206B,100:0D0B14&height=120&section=footer" width="100%" alt=""/>
+
 </div>
